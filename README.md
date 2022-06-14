@@ -4,6 +4,6 @@
 
 ![printscreen no computador](img/print-pc.png)
 
-## Essa é uma printscreen no celular... ()
+## Essa é uma printscreen no celular... (320x687)
 
 ![printscreen no celular](img/print-celular.png)
