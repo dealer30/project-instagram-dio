@@ -85,7 +85,7 @@ body {
 
 .instagram-logout {
     color: #0095f6;
-    margin-top: 1rem;
+    margin-top: 0,5rem;
 }
 
 .not-account {
@@ -151,9 +151,24 @@ body {
 
     .instagram-continue {
         width: 100%;
+        height: 80%;
+    }
+    
+    .get-the-app {
+        height: 40%;
     }
     
     .group {
         border: 1px solid transparent;
+    }
+
+    .download {
+        height: 50%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .app-download {
+        margin: 10px;
     }
 }
