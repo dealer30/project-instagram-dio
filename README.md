@@ -1,4 +1,6 @@
-# Olá! Esse é um projeto que eu fiz durante o Bootcamp Dev Santander 2022 para praticar o uso do Flexbox no CSS, além disso utilizei media queries na responsividade.
+# Project Instagram Homepage
+
+Olá! Esse é um projeto que eu fiz durante o Bootcamp Dev Santander 2022 para praticar o uso do Flexbox no CSS, além disso utilizei media queries na responsividade.
 
 ## Essa é uma printscreen no computador... (1920x1080)
 
